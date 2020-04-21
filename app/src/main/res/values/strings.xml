@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">exerciseSQL</string>
+    <string name="Add_New">Tambah Data</string>
+    <string name="Update">Update Data</string>
+    <string name="profile">Profil</string>
+    <string name="edit">Update</string>
+    <string name="delete">Hapus</string>
+    <string name="title_activity_display_contact">Daftar Kontak</string>
+    <string name="name">Nama</string>
+    <string name="email">Email</string>
+    <string name="telp">Nomer Telepon</string>
+    <string name="nim">No Mhs</string>
+    <string name="alamat">Alamat</string>
+    <string name="save">Simpan</string>
+    <string name="deleteContact">Yakin...ingin menghapus ini.</string>
+    <string name="yes">Ya</string>
+    <string name="no">Tidak</string>
+    <string name="db">Data</string>
+    <string name="ti">Mahasiswa TI</string>
+</resources>
